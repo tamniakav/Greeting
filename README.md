@@ -1,0 +1,2 @@
+# Greeting
+Just another repository
